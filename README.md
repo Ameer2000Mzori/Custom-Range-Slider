@@ -18,7 +18,7 @@
 
 # 📖 About This Project <a name="about-project"></a>
 
-> GitHub Profiles A website built with HTML, SCSS, and TypeScript, utilizing the GitHub API and Axios for seamless data retrieval. Linters are employed to maintain clean code. Explore the live demo to search for any GitHub user.
+> Custom Range Slider is a website crafted using HTML, SCSS, and TypeScript. We employ linters to address code errors and ensure the maintenance of clean, efficient code. Take a moment to explore the live demo for a hands-on experience.
 
 # Sample Of Website <a name="Sample-Of-Website"></a>
 
